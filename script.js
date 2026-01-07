@@ -1,4 +1,4 @@
-// 导航栏滚动效果
+﻿// 导航栏滚动效果
 window.addEventListener('scroll', () => {
     const navbar = document.querySelector('.navbar');
     if (window.scrollY > 50) {
